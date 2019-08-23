@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/contactmanger/static/css/main.b2468b15.chunk.css",
-    "main.js": "/contactmanger/static/js/main.a53de897.chunk.js",
-    "main.js.map": "/contactmanger/static/js/main.a53de897.chunk.js.map",
+    "main.js": "/contactmanger/static/js/main.37e2693b.chunk.js",
+    "main.js.map": "/contactmanger/static/js/main.37e2693b.chunk.js.map",
     "runtime~main.js": "/contactmanger/static/js/runtime~main.2f5c80f9.js",
     "runtime~main.js.map": "/contactmanger/static/js/runtime~main.2f5c80f9.js.map",
-    "static/js/2.1760765f.chunk.js": "/contactmanger/static/js/2.1760765f.chunk.js",
-    "static/js/2.1760765f.chunk.js.map": "/contactmanger/static/js/2.1760765f.chunk.js.map",
+    "static/js/2.98fa1f98.chunk.js": "/contactmanger/static/js/2.98fa1f98.chunk.js",
+    "static/js/2.98fa1f98.chunk.js.map": "/contactmanger/static/js/2.98fa1f98.chunk.js.map",
     "index.html": "/contactmanger/index.html",
-    "precache-manifest.e9a9309c0df53b97a10b1530f83ca96a.js": "/contactmanger/precache-manifest.e9a9309c0df53b97a10b1530f83ca96a.js",
+    "precache-manifest.652db3beae9477195cec30e570871d12.js": "/contactmanger/precache-manifest.652db3beae9477195cec30e570871d12.js",
     "service-worker.js": "/contactmanger/service-worker.js",
     "static/css/main.b2468b15.chunk.css.map": "/contactmanger/static/css/main.b2468b15.chunk.css.map"
   }
